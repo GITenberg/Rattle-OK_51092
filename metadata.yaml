@@ -1,4 +1,8 @@
 _repo: Rattle-OK_51092
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51092-h/images/cover.jpg
 creator:
   author:
     agent_name: Warner, Harry
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '35998'
     url: http://www.gutenberg.org/2009/agents/35998
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51092#Rattle-OK
 gutenberg_issued: '2016-01-31'
 gutenberg_type: Text
 identifiers:
